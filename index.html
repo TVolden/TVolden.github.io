@@ -2,4 +2,17 @@
 layout: default
 title: Home
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+<h1>T.Volden´s personal blog</h1>
+
+Welcome to my blog or at least a place where my blog will come to be.
+
+<h2>Latest Posts</h2>
+
+<ul>
+    {% for post in site.posts %}
+    <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+    </li>
+    {% endfor %}
+</ul>
