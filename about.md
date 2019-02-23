@@ -2,6 +2,9 @@
 layout: default
 title: About
 ---
-# About page
+# About me
 
-This page tells you a little bit about me.
+I'm a danish professional programmer and dad to two.
+
+If you want to get in touch, then please look me up at LinkedIn:
+https://www.linkedin.com/in/thomasvolden

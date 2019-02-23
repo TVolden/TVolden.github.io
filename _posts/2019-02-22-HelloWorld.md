@@ -2,6 +2,7 @@
 layout: post
 author: Thomas V.
 title: First post
+comments: true
 ---
 Hello, my name is Thomas and I'm an programmer.
 
