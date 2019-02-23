@@ -8,6 +8,8 @@ Hello, my name is Thomas and I'm an programmer.
 
 Okay here we go, I'm actually starting a blog. Why am I doing this. I mean writing, and texts and ehm. yeah that's really not my strong side.
 
+<!--read more-->
+
 Wait stop, I'm getting overexcited and rambling on like a teenager. Let's try that again.  
 I'm Thomas and I'm here, because I'm passioned about coding. 
 Well not passioned like with my wife and children, but I AM obsessed with fine tuning my skills.
