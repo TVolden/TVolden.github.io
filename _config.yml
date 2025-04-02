@@ -2,5 +2,9 @@ title: "Thomas Volden"
 excerpt_separator   : "<!--read more-->"
 remote_theme: "jekyll/minima@1e8a445"
 author: Thomas V. S. Volden
+
 minima:
   skin: dark
+
+disqus:
+  shortname: tvolden-blog
