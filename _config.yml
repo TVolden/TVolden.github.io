@@ -1,2 +1,3 @@
 title: "Thomas Volden's blog"
 excerpt_separator   : "<!--read more-->"
+theme: jekyll-theme-minimal
