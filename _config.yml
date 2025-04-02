@@ -1,5 +1,6 @@
 title: "Thomas Volden's blog"
 excerpt_separator   : "<!--read more-->"
 remote_theme: "jekyll/minima@1e8a445"
+author: Thomas Volden
 minima:
   skin: dark
