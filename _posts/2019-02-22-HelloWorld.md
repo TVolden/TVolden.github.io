@@ -20,21 +20,22 @@ Focus Thomas focus. So I read and practice which generates some experience and t
 I'd normally talk to people around me, and people are nice to listen and comment, but I feel like a need a new place to let it go, and this is so much better than talking to a rubber duck.
 
 By now, you may have noticed that my process is creative (chaotic). 
-Well clever you. I see myself as a creative. I can draw, and do so both in my free time and on work. 
+Well clever you. I see myself as a creative person. I can draw, and do so both in my free time and as part of my work.
 I think a drawing is the best way to get a shared and clear picture of something complex, which coding usually is.
 
-I also like psycology and behavial science.
-In fact, back when I had to choose my education, I picked computers over psycology. 
-Even though I never regretted that choice, I'll always have a profound interest on how the human mind works.
-My interest in behavial science started when I stumbled upon a book called "thinking fast and slow", and once I read that one, I just couldn't stop.
-It's interesting because it's like a live steamed manual on human software, written by the users of the system. 
+I also like behavial psychology.
+In fact, back when I had to choose my education, I picked computers over psychology. 
+Even though I never regretted that choice, I'll always have a profound interest in the average human mind.
+My interest in behavial psychology started when I stumbled upon a book called "Thinking fast and slow", which I read multiple times.
 
 I have a dream of one day being able to unite the 3 passions in my professional career. 
-I don't see allot of job openings, for a professional programmer, with insight in the human psyche and who also likes to draw.
-That said, I do think that the tree things complement each other, and I hope to show exactly that on this here blog.
+I don't see a lot of job openings for a professional programmer with insight in the human psyche and who also likes to draw.
+That said, I do think that the tree things complement each other, and I hope to show exactly that on this blog.
 
 I apologize for my sketchy first post, but I just needed to get something out there.
-I plan to get a retine up and running, and post something regularely.
+I plan to get a rutine up and running, and post something regularely.
 
 Sincerly,
 Thomas Volden
+
+Edited 2025-04-02, corrected spelling and rephrased some sentences.
